@@ -1,18 +1,18 @@
-✨ Sobre mí
+# ✨ Sobre mí
 ¡Hola! Soy Antonella Defilippi, desarrolladora frontend de 31 años apasionada por la tecnología y siempre en búsqueda de nuevos retos. Con formación en desarrollo fullstack, he aprendido a manejar herramientas clave como HTML5, CSS3, JavaScript, React, Node.js y más. Actualmente, mi enfoque está en perfeccionar mis habilidades para aportar en proyectos creativos y dinámicos. 💻
 
-🔭 Meta profesional
-Actualmente, estoy enfocada en encontrar una posición como Desarrolladora Junior en desarrollo web, donde pueda aplicar mis conocimientos y aprender de un equipo de profesionales experimentados. Me gusta tanto aprender como compartir mi experiencia, y creo en el poder del trabajo en equipo para lograr grandes cosas. ¡Estoy lista para asumir nuevos desafíos! 🔭
+# 🔭 Meta profesional
+Actualmente, estoy enfocada en encontrar una posición como Desarrolladora Junior en desarrollo web, donde pueda aplicar mis conocimientos y aprender de un equipo de profesionales experimentados. Me gusta tanto aprender como compartir mi experiencia, y creo en el poder del trabajo en equipo para lograr grandes cosas. ¡Estoy lista para asumir nuevos desafíos! 
 
-😎 Buscando nuevas oportunidades
-Me entusiasma la idea de unirme a un equipo donde pueda aportar mis habilidades, colaborar y aprender de los demás. Cada proyecto es una oportunidad para crecer y contribuir con soluciones innovadoras. ¡Espero poder trabajar juntos pronto! ✨
+# 😎 Buscando nuevas oportunidades
+Me entusiasma la idea de unirme a un equipo donde pueda aportar mis habilidades, colaborar y aprender de los demás. Cada proyecto es una oportunidad para crecer y contribuir con soluciones innovadoras. ¡Espero poder trabajar juntos pronto! 
 
-📫 Contacto
-Correo: antonella.defilippi14@gmail.com
+# 📫 Contacto
+Correo: antonelladefilippi14@gmail.com
 Redes Sociales:
 LinkedIn
 GitHub
-💻 Habilidades Técnicas
+# 💻 Habilidades Técnicas
 Lenguajes de Programación:
 JavaScript, TypeScript, HTML, CSS, SQL
 
