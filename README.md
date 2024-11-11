@@ -9,9 +9,7 @@ Me entusiasma la idea de unirme a un equipo donde pueda aportar mis habilidades,
 
 # 📫 Contacto
 Correo: antonelladefilippi14@gmail.com
-Redes Sociales:
-LinkedIn
-GitHub
+
 # 💻 Habilidades Técnicas
 Lenguajes de Programación:
 JavaScript, TypeScript, HTML, CSS, SQL
