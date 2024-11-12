@@ -10,8 +10,8 @@ Me entusiasma la idea de unirme a un equipo donde pueda aportar mis habilidades,
 # 📫 Contacto
 # Correo: antonelladefilippi14@gmail.com
 Redes Sociales:
-LinkedIn:https://www.linkedin.com/in/antonella-defilippi-b91b82289/.
-GitHub: https://github.com/antonelladeff.
+#LinkedIn:https://www.linkedin.com/in/antonella-defilippi-b91b82289/.
+#GitHub: https://github.com/antonelladeff.
 
 # 💻 Habilidades Técnicas
 Lenguajes de Programación:
