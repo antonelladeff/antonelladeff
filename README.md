@@ -8,8 +8,10 @@ Actualmente, estoy enfocada en encontrar una posición como Desarrolladora Junio
 Me entusiasma la idea de unirme a un equipo donde pueda aportar mis habilidades, colaborar y aprender de los demás. Cada proyecto es una oportunidad para crecer y contribuir con soluciones innovadoras. ¡Espero poder trabajar juntos pronto! 
 
 # 📫 Contacto
-Correo: antonelladefilippi14@gmail.com
-
+# Correo: antonelladefilippi14@gmail.com
+Redes Sociales:
+LinkedIn :https://www.linkedin.com/in/antonella-defilippi-b91b82289/
+GitHub: https://github.com/antonelladeff
 # 💻 Habilidades Técnicas
 Lenguajes de Programación:
 JavaScript, TypeScript, HTML, CSS, SQL
